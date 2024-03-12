@@ -1,1 +1,1 @@
-# Docker_Scaling_Finger_Detection_ML
+# Docker_Scaling_using_fingers
