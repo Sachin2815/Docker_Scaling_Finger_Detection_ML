@@ -1,7 +1,7 @@
 import cv2
 cap = cv2.VideoCapture(0)
 
-ret, photo = cap.read()
+status, photo = cap.read()
 
 cv2.imshow("my photo" , photo)
 
